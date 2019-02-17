@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.smiley.Smiley.Admin.Server.SmileyAdminServerApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.88 s - in com.smiley.Smiley.Admin.Server.SmileyAdminServerApplicationTests
